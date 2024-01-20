@@ -12,4 +12,4 @@ This is a simple and interactive Tic Tac Toe game implemented using HTML, CSS, a
 - Stylish and intuitive UI.
 
 
-Author - Dhanashree Bhirud
+Author : Dhanashree Bhirud
